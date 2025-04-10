@@ -1,0 +1,5 @@
+language: "java"
+name: "Flight-services"
+appmap_dir: "tmp/appmap"
+packages:
+- path: "com.ust.Flight_services"
